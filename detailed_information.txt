@@ -1,0 +1,22 @@
+﻿Jako użytkownik, chcę mieć możliwość logowania do aplikacji:
+	1. Jest obowiązkowe hasło do łogowania
+	2. Email jest obowiązkowy do logowania 
+	3. Niepoprawne hasło - niemożliwość załogowania do systemu
+	4. Uzytkownik ma możliwość do wejścia na strone rejestracji
+	5. po podaniu poprawnych danych użytkownik zostaje przekierowany na stronę 	główną
+
+
+Historia wcześniej obserwowanych produktów:
+	1. Zalogowany użytkownik może wejść na stronę historii zakupów
+	2. Użytkownik, który nie kupił żadnych przedmiotów, ma pustą stronę 	historii
+	3. Użytkownik może sortować swoją historię zamówień według daty zakupu
+	4. Użytkownik może przejść do detali zamówienia
+	5. Użytkownik może przejść do strony ostatnio zakupionego produktu
+
+Jako użytkownik chcę mieć możliwość wyszukiwania produktów po wyspecjalizowanych filtrach:
+ 	1. Użytkownik musi wypełnić wszystkie potrzebne informacje
+	2. Użytkownik może zresetować wszystkie filtry
+	3. Użytkownik może kliknąć przycisk Szukaj z prawidłowym formularzem, 	który pokaże stronę wyników wyszukiwania
+	4. Użytkownik może zobaczyć ilość odfiltrowanych produktów
+	5. Użytkownik może wybrać kilka z wyselekcjonowanych produktóœ
+
